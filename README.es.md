@@ -8,6 +8,9 @@ usuarios para orquestar dinámicamente los flujos de procesamiento en los bordes
 una sistema de nodos, registrar los patrones de carga de trabajo definidos por el usuario y orquestarlos en los bordes
 en forma de tareas de ejecución. Para mejor comprensión, se han incluido ejemplos en el tutorial.
 
+🇯🇵 このチュートリアルは[日本語](README.ja.md)でもご覧いただけます。<br/>🇪n This tutorial is also available in 
+[english](README.md)
+
 ## Contenido
 
 <details>
